@@ -1,0 +1,7 @@
+/terraform
+/terraform/*
+terraform.tfvars
+/registry.terraform.io
+/.terraform.lock.hcl
+/terraform.tfstate
+/terraform.tfstate.backup
